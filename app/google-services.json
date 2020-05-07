@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75602707263",
+    "firebase_url": "https://familymart-5cc8b.firebaseio.com",
+    "project_id": "familymart-5cc8b",
+    "storage_bucket": "familymart-5cc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75602707263:android:990d86d6b7f83e3901098a",
+        "android_client_info": {
+          "package_name": "dev.alhasan.familymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75602707263-n4vei1umqfvbokjipat594pblvpjlnr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.alhasan.familymart",
+            "certificate_hash": "cb190fff99a70358e57e2ed9a8c3b3a6608fbba5"
+          }
+        },
+        {
+          "client_id": "75602707263-lu9g3p60o385o71q2r4tgk3bg9ovr7gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRPi4ITbQ2499UpEb5yJFJhTnvl_xumw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75602707263-lu9g3p60o385o71q2r4tgk3bg9ovr7gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

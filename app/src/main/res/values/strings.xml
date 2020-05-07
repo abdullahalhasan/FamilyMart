@@ -1,0 +1,8 @@
+<resources>
+    <!--Change Your App name Here-->
+    <string name="app_name">Family Mart</string>
+    <!--Put Your Ad Unit ID here!-->
+    <string name="adUnit">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
